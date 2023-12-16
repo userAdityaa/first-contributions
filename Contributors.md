@@ -5142,7 +5142,9 @@
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish) -[satishReddy](https://github.com/satishReddykalli) -[Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
 - [Wan Adam] (https://github.com/c0rdial)
-- [Aditya Chaudhary](https://github.com/userAdityaa)
+  <<<<<<< HEAD
+- # [Aditya Chaudhary](https://github.com/userAdityaa)
+  > > > > > > > a1fd86f5 (add Aditya Chaudhary to the contributors list)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
 - [Guilherme Heinrichs] (https://github.com/GuiHeinrichs)
@@ -5450,6 +5452,7 @@
 - [Ishaan Sangwan]("https://github.com/ishaan-sangwan")
   Chris - SWE
 - [Rajesh Jonnalagadda]("https://github.com/rajeshj11")
+- [Aditya Chaudhary](https://github.com/userAdityaa)
 - [Burla Abhiraj]("https://github.com/BurlaAbhiraj)
 - [Sougata Majumdar] ("https://github.com/Sou28")
 - [Curry Curry] ("https://github.com/binkiyam")
